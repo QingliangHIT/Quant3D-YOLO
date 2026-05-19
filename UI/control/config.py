@@ -1,0 +1,9 @@
+IconSize = 24
+dx, dy, dz = 14142.1/640, 14142.1/640, 5  # mm
+JSON = 'labelme'
+TASK = 'auto'
+show_filtered = True
+show_boxes = True
+show_confidence = False
+show_labels = False
+cache_image = False
