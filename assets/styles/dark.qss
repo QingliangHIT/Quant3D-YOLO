@@ -1,0 +1,17 @@
+* { font-family: "Times New Roman"; font-size: 12pt; }
+QWidget { background-color: #2b2b2b; color: #e0e0e0; }
+QMenuBar, QToolBar { background-color: #3c3c3c; font-size: 12pt; }
+QPushButton { background-color: #4a4a4a; border: 1px solid #555; padding: 5px; font-size: 12pt; }
+QLabel { color: #e0e0e0; font-size: 12pt; }
+QDockWidget, QTabBar::tab { background-color: #3c3c3c; font-size: 12pt; }
+QListWidget, QTreeWidget, QTextEdit { background-color: #363636; color: #e0e0e0; alternate-background-color: #404040; border: 1px solid #555; }
+QListWidget::item { background-color: #404040; }
+QListWidget::item:selected { background-color: #3d6b99; }
+QTreeWidget::item:selected { background-color: #3d6b99; }
+QProgressBar { border: 1px solid #555; background-color: #404040; }
+QProgressBar::chunk { background-color: #55aa55; }
+QLineEdit { background-color: #363636; color: #e0e0e0; border: 1px solid #555; }
+QHeaderView::section { background-color: #3c3c3c; color: #e0e0e0; border: 1px solid #555; }
+QTabWidget::pane { border: 1px solid #555; }
+QTabBar::tab { background-color: #3c3c3c; color: #e0e0e0; border: 1px solid #555; }
+QTabBar::tab:selected { background-color: #4a4a4a; }
