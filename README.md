@@ -1,1 +1,0 @@
-# Quant3D-YOLO
