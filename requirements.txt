@@ -1,0 +1,11 @@
+PyQt5
+opencv-python
+numpy
+torch
+ultralytics
+pyvista
+scikit-image
+matplotlib
+tqdm
+wmi
+GPUtil
