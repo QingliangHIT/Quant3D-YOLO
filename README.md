@@ -401,7 +401,7 @@ YOLO Parameters 面板顶部的 **Model** 一行包含「可编辑下拉框 + �
 ## 目录结构（简）
 
 ```
-QuantV3.1/
+QuantV1.1/
 ├── main.py              应用入口
 ├── requirements.txt     依赖清单
 ├── settings.ini         最近工程记录（运行时生成）
